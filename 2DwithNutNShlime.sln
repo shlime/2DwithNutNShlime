@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{6BA0820B-EC75-0101-7A06-03DB2E225992}") = "2DwithNutNShlime", "Assembly-CSharp.csproj", "{2B699E4F-93E0-3356-97CE-329C22B2A2C4}"
+EndProject
+Project("{6BA0820B-EC75-0101-7A06-03DB2E225992}") = "2DwithNutNShlime", "Assembly-CSharp-Editor.csproj", "{5A5B16C7-87B1-3CA2-D752-B52CA1796C89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{2B699E4F-93E0-3356-97CE-329C22B2A2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B699E4F-93E0-3356-97CE-329C22B2A2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B699E4F-93E0-3356-97CE-329C22B2A2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B699E4F-93E0-3356-97CE-329C22B2A2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5B16C7-87B1-3CA2-D752-B52CA1796C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5B16C7-87B1-3CA2-D752-B52CA1796C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5B16C7-87B1-3CA2-D752-B52CA1796C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5B16C7-87B1-3CA2-D752-B52CA1796C89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
